@@ -1,0 +1,22 @@
+{
+    "Bagiya": {
+        "age": 20,
+        "city": "Chennai"
+    },
+    "Prabhu": {
+        "age": 18,
+        "city": "NYC"
+    },
+    "Deepika": {
+        "age": 17,
+        "city": "Los Vegas"
+    },
+    "Hasan": {
+        "age": 19,
+        "city": "Mumbai"
+    },
+    "Ganesh": {
+        "age": 25,
+        "city": "city1"
+    }
+}
